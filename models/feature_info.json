@@ -1,0 +1,16 @@
+{
+    "target_column": "final_score",
+    "feature_columns": [
+        "study_hours",
+        "assignments_completed",
+        "attendance_rate",
+        "midterm_score"
+    ],
+    "numeric_features": [
+        "study_hours",
+        "assignments_completed",
+        "attendance_rate",
+        "midterm_score"
+    ],
+    "categorical_features": []
+}
